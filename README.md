@@ -27,6 +27,7 @@ This repository includes comprehensive study materials in PDF format covering:
 |------------|---------|----------------|
 | **C Programming** | `C.pdf` | Core C programming concepts, pointers, data structures, and common interview questions |
 | **Database Management Systems** | `DBMS.pdf` | SQL queries, normalization, transactions, indexing, and database design principles |
+| **Data Structures & Algorithms** | `DSA.pdf` | Essential data structures, algorithmic paradigms, complexity analysis, and coding interview problems |
 | **Java Programming** | `JAVA .pdf` | Object-oriented programming, collections framework, multithreading, and Java-specific interview topics |
 | **SQL** | `SQL.pdf` | Advanced SQL queries, joins, subqueries, stored procedures, and database optimization |
 
@@ -47,6 +48,16 @@ This repository includes comprehensive study materials in PDF format covering:
 - Indexing strategies
 - Query optimization
 - Transaction management
+
+### 🧮 Data Structures & Algorithms
+- Arrays, Linked Lists, Stacks, and Queues
+- Trees and Binary Search Trees
+- Graphs and graph algorithms
+- Sorting and searching algorithms
+- Dynamic programming
+- Greedy algorithms
+- Time and space complexity analysis
+- Hash tables and hashing techniques
 
 ### ☕ Java Programming
 - Object-oriented principles
