@@ -21,6 +21,15 @@
 
 This repository contains a curated collection of placement-related questions and study materials covering essential topics for technical interviews. Whether you're preparing for campus placements, job interviews, or competitive programming, this resource will help you strengthen your fundamentals.
 
+## 💻 Tech Stack & Compatibility
+
+| 🔧 **Technology** | 📱 **Platform** | ✅ **Status** |
+|-------------------|-----------------|---------------|
+| **PDF Documents** | All Platforms | ✅ Supported |
+| **Mobile Reading** | iOS/Android | ✅ Compatible |
+| **Offline Access** | Any Device | ✅ Available |
+| **Print Support** | All Printers | ✅ Optimized |
+
 ## 📖 Table of Contents
 
 - [📁 Study Materials](#-study-materials)
