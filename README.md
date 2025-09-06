@@ -5,6 +5,17 @@
 [![GitHub Stars](https://img.shields.io/github/stars/XHLEIK/Placement-Related-Questions?style=for-the-badge)](https://github.com/XHLEIK/Placement-Related-Questions/stargazers)
 [![GitHub Forks](https://img.shields.io/github/forks/XHLEIK/Placement-Related-Questions?style=for-the-badge)](https://github.com/XHLEIK/Placement-Related-Questions/network/members)
 [![GitHub License](https://img.shields.io/github/license/XHLEIK/Placement-Related-Questions?style=for-the-badge)](https://github.com/XHLEIK/Placement-Related-Questions/blob/main/LICENSE)
+[![GitHub Issues](https://img.shields.io/github/issues/XHLEIK/Placement-Related-Questions?style=for-the-badge)](https://github.com/XHLEIK/Placement-Related-Questions/issues)
+[![GitHub Last Commit](https://img.shields.io/github/last-commit/XHLEIK/Placement-Related-Questions?style=for-the-badge)](https://github.com/XHLEIK/Placement-Related-Questions/commits/main)
+
+## 🌟 Features
+
+- 📚 **Comprehensive Coverage**: 5 core subjects essential for technical interviews
+- 🎯 **Interview-Focused**: Questions and topics commonly asked in placements
+- 📄 **PDF Format**: Easy to read and study offline
+- 🔄 **Regular Updates**: Continuously updated with new content
+- 🚀 **Beginner Friendly**: Suitable for students at all levels
+- 💡 **Practical Examples**: Real-world problems and solutions
 
 ## 📚 Overview
 
