@@ -178,6 +178,12 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 *"Success is not final, failure is not fatal: it is the courage to continue that counts."*
 
+**📊 Repository Stats:**
+- 5 Core Subjects | PDF Format | Offline Access ✅
+- Perfect for Campus Placements & Job Interviews 🎯
+
 Made with ❤️ for students and job seekers
+
+**⭐ Star this repo if it helped you ace your interviews! ⭐**
 
 </div>
