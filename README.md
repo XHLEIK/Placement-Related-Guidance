@@ -36,7 +36,9 @@ This repository contains a curated collection of placement-related questions and
 - [🎯 Topics Covered](#-topics-covered)
 - [🚀 Getting Started](#-getting-started)
 - [📝 How to Use](#-how-to-use)
+- [💡 Study Tips](#-study-tips)
 - [🤝 Contributing](#-contributing)
+- [📞 Connect & Support](#-connect--support)
 - [📄 License](#-license)
 
 ## 📁 Study Materials
