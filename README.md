@@ -10,10 +10,11 @@
 
 ## 🌟 Features
 
-- 📚 **Comprehensive Coverage**: 6 core subjects essential for technical interviews
+- 📚 **Comprehensive Coverage**: 10 core subjects essential for technical interviews
 - 🎯 **Interview-Focused**: Questions and topics commonly asked in placements
 - 📄 **PDF Format**: Easy to read and study offline
-- 🎥 **Video Tutorials**: YouTube video links for visual learning
+- 🎥 **Video Tutorials**: 19 YouTube video links for visual learning
+- 🌐 **Web Development**: Complete frontend and backend development resources
 - 🔄 **Regular Updates**: Continuously updated with new content
 - 🚀 **Beginner Friendly**: Suitable for students at all levels
 - 💡 **Practical Examples**: Real-world problems and solutions
@@ -51,9 +52,13 @@ This repository includes comprehensive study materials in PDF format covering:
 |------------|---------|----------------|
 | **Aptitude Syllabus** | `Apti syllabus.docx` | Comprehensive aptitude topics including quantitative, logical reasoning, and verbal ability |
 | **C Programming** | `C.pdf` | Core C programming concepts, pointers, data structures, and common interview questions |
+| **CSS Styling** | `CSS.pdf` | Cascading Style Sheets fundamentals, selectors, layouts, and responsive design principles |
 | **Database Management Systems** | `DBMS.pdf` | SQL queries, normalization, transactions, indexing, and database design principles |
 | **Data Structures & Algorithms** | `DSA.pdf` | Essential data structures, algorithmic paradigms, complexity analysis, and coding interview problems |
+| **HTML Markup** | `HTML.pdf` | HTML5 fundamentals, semantic markup, forms, and web document structure |
 | **Java Programming** | `JAVA .pdf` | Object-oriented programming, collections framework, multithreading, and Java-specific interview topics |
+| **JavaScript Programming** | `JavaScript.pdf` | ES6+ features, DOM manipulation, asynchronous programming, and modern JavaScript concepts |
+| **PHP & MySQL** | `PHP & MySQL.pdf` | Server-side scripting, database connectivity, and full-stack web development with PHP |
 | **SQL** | `SQL.pdf` | Advanced SQL queries, joins, subqueries, stored procedures, and database optimization |
 
 ## 🎯 Topics Covered
@@ -264,6 +269,40 @@ Enhance your learning with our curated video tutorials covering essential aptitu
 *Click to watch: Java Interview Questions and OOPs*
 </div>
 
+- Performance optimization
+
+### 🌐 HTML Markup
+- HTML5 semantic elements
+- Forms and input validation
+- Multimedia integration
+- Accessibility best practices
+- Document structure and organization
+- Meta tags and SEO fundamentals
+
+### 🎨 CSS Styling
+- CSS3 features and animations
+- Flexbox and Grid layouts
+- Responsive design principles
+- CSS preprocessors (Sass/Less)
+- Cross-browser compatibility
+- Performance optimization techniques
+
+### ⚡ JavaScript Programming
+- ES6+ modern JavaScript features
+- DOM manipulation and events
+- Asynchronous programming (Promises, async/await)
+- Functional and object-oriented programming
+- JavaScript frameworks and libraries
+- Error handling and debugging
+
+### 🐘 PHP & MySQL
+- PHP fundamentals and syntax
+- Object-oriented PHP programming
+- MySQL database integration
+- Session management and cookies
+- Security best practices
+- MVC architecture patterns
+
 ## 🚀 Getting Started
 
 ### Prerequisites
@@ -346,7 +385,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 *"Success is not final, failure is not fatal: it is the courage to continue that counts."*
 
 **📊 Repository Stats:**
-- 6 Core Subjects | PDF Format | Video Tutorials | Offline Access ✅
+- 10 Core Subjects | PDF Format | Video Tutorials | Offline Access ✅
 - Perfect for Campus Placements & Job Interviews 🎯
 
 Made with ❤️ for students and job seekers
