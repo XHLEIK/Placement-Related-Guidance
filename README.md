@@ -10,9 +10,10 @@
 
 ## 🌟 Features
 
-- 📚 **Comprehensive Coverage**: 5 core subjects essential for technical interviews
+- 📚 **Comprehensive Coverage**: 6 core subjects essential for technical interviews
 - 🎯 **Interview-Focused**: Questions and topics commonly asked in placements
 - 📄 **PDF Format**: Easy to read and study offline
+- 🎥 **Video Tutorials**: YouTube video links for visual learning
 - 🔄 **Regular Updates**: Continuously updated with new content
 - 🚀 **Beginner Friendly**: Suitable for students at all levels
 - 💡 **Practical Examples**: Real-world problems and solutions
@@ -34,6 +35,7 @@ This repository contains a curated collection of placement-related questions and
 
 - [📁 Study Materials](#-study-materials)
 - [🎯 Topics Covered](#-topics-covered)
+- [🎥 Video Tutorials](#-video-tutorials)
 - [🚀 Getting Started](#-getting-started)
 - [📝 How to Use](#-how-to-use)
 - [💡 Study Tips](#-study-tips)
@@ -47,6 +49,7 @@ This repository includes comprehensive study materials in PDF format covering:
 
 | 📂 Subject | 📄 File | 📋 Description |
 |------------|---------|----------------|
+| **Aptitude Syllabus** | `Apti syllabus.docx` | Comprehensive aptitude topics including quantitative, logical reasoning, and verbal ability |
 | **C Programming** | `C.pdf` | Core C programming concepts, pointers, data structures, and common interview questions |
 | **Database Management Systems** | `DBMS.pdf` | SQL queries, normalization, transactions, indexing, and database design principles |
 | **Data Structures & Algorithms** | `DSA.pdf` | Essential data structures, algorithmic paradigms, complexity analysis, and coding interview problems |
@@ -96,6 +99,174 @@ This repository includes comprehensive study materials in PDF format covering:
 - Window functions
 - Stored procedures and functions
 - Performance optimization
+
+## 🎥 Video Tutorials
+
+Enhance your learning with our curated video tutorials covering essential aptitude and technical topics for placement preparation.
+
+### 📊 Quantitative Aptitude
+
+#### 🔢 **Number System & Basic Mathematics**
+<div align="center">
+
+[![Number System Basics](https://img.youtube.com/vi/PLACEHOLDER/maxresdefault.jpg)](https://www.youtube.com/watch?v=PLACEHOLDER)
+
+*Click to watch: Number System and Basic Mathematical Operations*
+</div>
+
+#### ➕ **Arithmetic & Percentages**
+<div align="center">
+
+[![Arithmetic & Percentages](https://img.youtube.com/vi/PLACEHOLDER/maxresdefault.jpg)](https://www.youtube.com/watch?v=PLACEHOLDER)
+
+*Click to watch: Arithmetic Problems and Percentage Calculations*
+</div>
+
+#### 💰 **Profit & Loss**
+<div align="center">
+
+[![Profit & Loss](https://img.youtube.com/vi/PLACEHOLDER/maxresdefault.jpg)](https://www.youtube.com/watch?v=PLACEHOLDER)
+
+*Click to watch: Profit, Loss, and Discount Problems*
+</div>
+
+#### 🏦 **Simple & Compound Interest**
+<div align="center">
+
+[![Interest Calculations](https://img.youtube.com/vi/PLACEHOLDER/maxresdefault.jpg)](https://www.youtube.com/watch?v=PLACEHOLDER)
+
+*Click to watch: Simple and Compound Interest Problems*
+</div>
+
+#### ⏱️ **Time & Work**
+<div align="center">
+
+[![Time & Work](https://img.youtube.com/vi/PLACEHOLDER/maxresdefault.jpg)](https://www.youtube.com/watch?v=PLACEHOLDER)
+
+*Click to watch: Time and Work Problems Solving Techniques*
+</div>
+
+#### 🚗 **Time, Speed & Distance**
+<div align="center">
+
+[![Time Speed Distance](https://img.youtube.com/vi/PLACEHOLDER/maxresdefault.jpg)](https://www.youtube.com/watch?v=PLACEHOLDER)
+
+*Click to watch: Time, Speed, and Distance Problem Solving*
+</div>
+
+#### 🔄 **Ratio & Proportion**
+<div align="center">
+
+[![Ratio & Proportion](https://img.youtube.com/vi/PLACEHOLDER/maxresdefault.jpg)](https://www.youtube.com/watch?v=PLACEHOLDER)
+
+*Click to watch: Ratio, Proportion, and Variation Problems*
+</div>
+
+#### 📊 **Data Interpretation**
+<div align="center">
+
+[![Data Interpretation](https://img.youtube.com/vi/PLACEHOLDER/maxresdefault.jpg)](https://www.youtube.com/watch?v=PLACEHOLDER)
+
+*Click to watch: Charts, Graphs, and Data Analysis*
+</div>
+
+### 🧠 Logical Reasoning
+
+#### 🔍 **Pattern Recognition**
+<div align="center">
+
+[![Pattern Recognition](https://img.youtube.com/vi/PLACEHOLDER/maxresdefault.jpg)](https://www.youtube.com/watch?v=PLACEHOLDER)
+
+*Click to watch: Number and Letter Pattern Recognition*
+</div>
+
+#### 🧩 **Puzzles & Arrangements**
+<div align="center">
+
+[![Puzzles & Arrangements](https://img.youtube.com/vi/PLACEHOLDER/maxresdefault.jpg)](https://www.youtube.com/watch?v=PLACEHOLDER)
+
+*Click to watch: Seating Arrangements and Logic Puzzles*
+</div>
+
+#### 🔗 **Syllogisms & Statements**
+<div align="center">
+
+[![Syllogisms](https://img.youtube.com/vi/PLACEHOLDER/maxresdefault.jpg)](https://www.youtube.com/watch?v=PLACEHOLDER)
+
+*Click to watch: Syllogisms and Statement-Conclusion Problems*
+</div>
+
+#### 📏 **Blood Relations & Coding**
+<div align="center">
+
+[![Blood Relations](https://img.youtube.com/vi/PLACEHOLDER/maxresdefault.jpg)](https://www.youtube.com/watch?v=PLACEHOLDER)
+
+*Click to watch: Blood Relations and Coding-Decoding*
+</div>
+
+### 📝 Verbal Ability
+
+#### 📖 **Reading Comprehension**
+<div align="center">
+
+[![Reading Comprehension](https://img.youtube.com/vi/PLACEHOLDER/maxresdefault.jpg)](https://www.youtube.com/watch?v=PLACEHOLDER)
+
+*Click to watch: Reading Comprehension Strategies*
+</div>
+
+#### ✏️ **Grammar & Sentence Correction**
+<div align="center">
+
+[![Grammar Basics](https://img.youtube.com/vi/PLACEHOLDER/maxresdefault.jpg)](https://www.youtube.com/watch?v=PLACEHOLDER)
+
+*Click to watch: Grammar Rules and Sentence Correction*
+</div>
+
+#### 📚 **Vocabulary & Synonyms**
+<div align="center">
+
+[![Vocabulary Building](https://img.youtube.com/vi/PLACEHOLDER/maxresdefault.jpg)](https://www.youtube.com/watch?v=PLACEHOLDER)
+
+*Click to watch: Vocabulary Building and Word Power*
+</div>
+
+### 💻 Technical Subjects
+
+#### 🔧 **C Programming Fundamentals**
+<div align="center">
+
+[![C Programming](https://img.youtube.com/vi/PLACEHOLDER/maxresdefault.jpg)](https://www.youtube.com/watch?v=PLACEHOLDER)
+
+*Click to watch: C Programming Interview Questions*
+</div>
+
+#### 🗄️ **Database Management Systems**
+<div align="center">
+
+[![DBMS Concepts](https://img.youtube.com/vi/PLACEHOLDER/maxresdefault.jpg)](https://www.youtube.com/watch?v=PLACEHOLDER)
+
+*Click to watch: DBMS Core Concepts and SQL*
+</div>
+
+#### 🧮 **Data Structures & Algorithms**
+<div align="center">
+
+[![DSA Fundamentals](https://img.youtube.com/vi/PLACEHOLDER/maxresdefault.jpg)](https://www.youtube.com/watch?v=PLACEHOLDER)
+
+*Click to watch: DSA Interview Preparation*
+</div>
+
+#### ☕ **Java Programming**
+<div align="center">
+
+[![Java Programming](https://img.youtube.com/vi/PLACEHOLDER/maxresdefault.jpg)](https://www.youtube.com/watch?v=PLACEHOLDER)
+
+*Click to watch: Java Interview Questions and OOPs*
+</div>
+
+> **📝 Note:** Replace "PLACEHOLDER" with actual YouTube video IDs. The video thumbnails and links will automatically update once you add the real video IDs.
+
+> **🎬 How to add video links:** Replace `PLACEHOLDER` in the URLs with the actual YouTube video ID (the part after `v=` in YouTube URLs).
 
 ## 🚀 Getting Started
 
@@ -179,7 +350,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 *"Success is not final, failure is not fatal: it is the courage to continue that counts."*
 
 **📊 Repository Stats:**
-- 5 Core Subjects | PDF Format | Offline Access ✅
+- 6 Core Subjects | PDF Format | Video Tutorials | Offline Access ✅
 - Perfect for Campus Placements & Job Interviews 🎯
 
 Made with ❤️ for students and job seekers
