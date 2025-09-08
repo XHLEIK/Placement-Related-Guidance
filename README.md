@@ -209,7 +209,7 @@ Enhance your learning with our curated video tutorials covering essential aptitu
 #### 📖 **Reading Comprehension**
 <div align="center">
 
-[![Reading Comprehension](https://img.youtube.com/vi/PLACEHOLDER/maxresdefault.jpg)](https://www.youtube.com/watch?v=PLACEHOLDER)
+[![Reading Comprehension](https://img.youtube.com/vi/4Ns1jYVuJ7s/maxresdefault.jpg)](https://www.youtube.com/watch?v=4Ns1jYVuJ7s)
 
 *Click to watch: Reading Comprehension Strategies*
 </div>
@@ -217,7 +217,7 @@ Enhance your learning with our curated video tutorials covering essential aptitu
 #### ✏️ **Grammar & Sentence Correction**
 <div align="center">
 
-[![Grammar Basics](https://img.youtube.com/vi/PLACEHOLDER/maxresdefault.jpg)](https://www.youtube.com/watch?v=PLACEHOLDER)
+[![Grammar Basics](https://img.youtube.com/vi/OQianPEu3fE/maxresdefault.jpg)](https://www.youtube.com/watch?v=OQianPEu3fE)
 
 *Click to watch: Grammar Rules and Sentence Correction*
 </div>
@@ -225,7 +225,7 @@ Enhance your learning with our curated video tutorials covering essential aptitu
 #### 📚 **Vocabulary & Synonyms**
 <div align="center">
 
-[![Vocabulary Building](https://img.youtube.com/vi/PLACEHOLDER/maxresdefault.jpg)](https://www.youtube.com/watch?v=PLACEHOLDER)
+[![Vocabulary Building](https://img.youtube.com/vi/IS1OXAZ7mV8/maxresdefault.jpg)](https://www.youtube.com/watch?v=IS1OXAZ7mV8)
 
 *Click to watch: Vocabulary Building and Word Power*
 </div>
@@ -235,7 +235,7 @@ Enhance your learning with our curated video tutorials covering essential aptitu
 #### 🔧 **C Programming Fundamentals**
 <div align="center">
 
-[![C Programming](https://img.youtube.com/vi/PLACEHOLDER/maxresdefault.jpg)](https://www.youtube.com/watch?v=PLACEHOLDER)
+[![C Programming](https://img.youtube.com/vi/irqbmMNs2Bo/maxresdefault.jpg)](https://www.youtube.com/watch?v=irqbmMNs2Bo)
 
 *Click to watch: C Programming Interview Questions*
 </div>
@@ -243,7 +243,7 @@ Enhance your learning with our curated video tutorials covering essential aptitu
 #### 🗄️ **Database Management Systems**
 <div align="center">
 
-[![DBMS Concepts](https://img.youtube.com/vi/PLACEHOLDER/maxresdefault.jpg)](https://www.youtube.com/watch?v=PLACEHOLDER)
+[![DBMS Concepts](https://img.youtube.com/vi/kBdlM6hNDAE/maxresdefault.jpg)](https://www.youtube.com/watch?v=kBdlM6hNDAE)
 
 *Click to watch: DBMS Core Concepts and SQL*
 </div>
@@ -251,7 +251,7 @@ Enhance your learning with our curated video tutorials covering essential aptitu
 #### 🧮 **Data Structures & Algorithms**
 <div align="center">
 
-[![DSA Fundamentals](https://img.youtube.com/vi/PLACEHOLDER/maxresdefault.jpg)](https://www.youtube.com/watch?v=PLACEHOLDER)
+[![DSA Fundamentals](https://img.youtube.com/vi/5_5oE5lgrhw/maxresdefault.jpg)](https://www.youtube.com/watch?v=5_5oE5lgrhw)
 
 *Click to watch: DSA Interview Preparation*
 </div>
@@ -259,7 +259,7 @@ Enhance your learning with our curated video tutorials covering essential aptitu
 #### ☕ **Java Programming**
 <div align="center">
 
-[![Java Programming](https://img.youtube.com/vi/PLACEHOLDER/maxresdefault.jpg)](https://www.youtube.com/watch?v=PLACEHOLDER)
+[![Java Programming](https://img.youtube.com/vi/ntLJmHOJ0ME/maxresdefault.jpg)](https://www.youtube.com/watch?v=ntLJmHOJ0ME)
 
 *Click to watch: Java Interview Questions and OOPs*
 </div>
