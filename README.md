@@ -108,144 +108,165 @@ Enhance your learning with our curated video tutorials covering essential aptitu
 
 #### 🔢 **Number System & Basic Mathematics**
 <div align="center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UXmoCKxUcs4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-*Number System and Basic Mathematical Operations*
+[![Number System Basics](https://img.youtube.com/vi/PLACEHOLDER/maxresdefault.jpg)](https://www.youtube.com/watch?v=PLACEHOLDER)
+
+*Click to watch: Number System and Basic Mathematical Operations*
 </div>
 
 #### ➕ **Arithmetic & Percentages**
 <div align="center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_TdyTKpNY8g" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-*Arithmetic Problems and Percentage Calculations*
+[![Arithmetic & Percentages](https://img.youtube.com/vi/PLACEHOLDER/maxresdefault.jpg)](https://www.youtube.com/watch?v=PLACEHOLDER)
+
+*Click to watch: Arithmetic Problems and Percentage Calculations*
 </div>
 
 #### 💰 **Profit & Loss**
 <div align="center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/frDUnX_rFP4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-*Profit, Loss, and Discount Problems*
+[![Profit & Loss](https://img.youtube.com/vi/PLACEHOLDER/maxresdefault.jpg)](https://www.youtube.com/watch?v=PLACEHOLDER)
+
+*Click to watch: Profit, Loss, and Discount Problems*
 </div>
 
 #### 🏦 **Simple & Compound Interest**
 <div align="center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/z2HFclpQHWc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-*Simple and Compound Interest Problems*
+[![Interest Calculations](https://img.youtube.com/vi/PLACEHOLDER/maxresdefault.jpg)](https://www.youtube.com/watch?v=PLACEHOLDER)
+
+*Click to watch: Simple and Compound Interest Problems*
 </div>
 
 #### ⏱️ **Time & Work**
 <div align="center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_d4uXI3K50A" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-*Time and Work Problems Solving Techniques*
+[![Time & Work](https://img.youtube.com/vi/PLACEHOLDER/maxresdefault.jpg)](https://www.youtube.com/watch?v=PLACEHOLDER)
+
+*Click to watch: Time and Work Problems Solving Techniques*
 </div>
 
 #### 🚗 **Time, Speed & Distance**
 <div align="center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/m-s3vdPoIn4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-*Time, Speed, and Distance Problem Solving*
+[![Time Speed Distance](https://img.youtube.com/vi/PLACEHOLDER/maxresdefault.jpg)](https://www.youtube.com/watch?v=PLACEHOLDER)
+
+*Click to watch: Time, Speed, and Distance Problem Solving*
 </div>
 
 #### 🔄 **Ratio & Proportion**
 <div align="center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/F63Op34Xqow" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-*Ratio, Proportion, and Variation Problems*
+[![Ratio & Proportion](https://img.youtube.com/vi/PLACEHOLDER/maxresdefault.jpg)](https://www.youtube.com/watch?v=PLACEHOLDER)
+
+*Click to watch: Ratio, Proportion, and Variation Problems*
 </div>
 
 #### 📊 **Data Interpretation**
 <div align="center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-u0AxDxa6C4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-*Charts, Graphs, and Data Analysis*
+[![Data Interpretation](https://img.youtube.com/vi/PLACEHOLDER/maxresdefault.jpg)](https://www.youtube.com/watch?v=PLACEHOLDER)
+
+*Click to watch: Charts, Graphs, and Data Analysis*
 </div>
 
 ### 🧠 Logical Reasoning
 
 #### 🔍 **Pattern Recognition**
 <div align="center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DgpCzh7cSKg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-*Number and Letter Pattern Recognition*
+[![Pattern Recognition](https://img.youtube.com/vi/PLACEHOLDER/maxresdefault.jpg)](https://www.youtube.com/watch?v=PLACEHOLDER)
+
+*Click to watch: Number and Letter Pattern Recognition*
 </div>
 
 #### 🧩 **Puzzles & Arrangements**
 <div align="center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sNVxf0MnQhw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-*Seating Arrangements and Logic Puzzles*
+[![Puzzles & Arrangements](https://img.youtube.com/vi/PLACEHOLDER/maxresdefault.jpg)](https://www.youtube.com/watch?v=PLACEHOLDER)
+
+*Click to watch: Seating Arrangements and Logic Puzzles*
 </div>
 
 #### 🔗 **Syllogisms & Statements**
 <div align="center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/knFLfSr35wU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-*Syllogisms and Statement-Conclusion Problems*
+[![Syllogisms](https://img.youtube.com/vi/PLACEHOLDER/maxresdefault.jpg)](https://www.youtube.com/watch?v=PLACEHOLDER)
+
+*Click to watch: Syllogisms and Statement-Conclusion Problems*
 </div>
 
 #### 📏 **Blood Relations & Coding**
 <div align="center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LRdLhfDupMU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-*Blood Relations and Coding-Decoding*
+[![Blood Relations](https://img.youtube.com/vi/PLACEHOLDER/maxresdefault.jpg)](https://www.youtube.com/watch?v=PLACEHOLDER)
+
+*Click to watch: Blood Relations and Coding-Decoding*
 </div>
 
 ### 📝 Verbal Ability
 
 #### 📖 **Reading Comprehension**
 <div align="center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PLACEHOLDER" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-*Reading Comprehension Strategies*
+[![Reading Comprehension](https://img.youtube.com/vi/PLACEHOLDER/maxresdefault.jpg)](https://www.youtube.com/watch?v=PLACEHOLDER)
+
+*Click to watch: Reading Comprehension Strategies*
 </div>
 
 #### ✏️ **Grammar & Sentence Correction**
 <div align="center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PLACEHOLDER" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-*Grammar Rules and Sentence Correction*
+[![Grammar Basics](https://img.youtube.com/vi/PLACEHOLDER/maxresdefault.jpg)](https://www.youtube.com/watch?v=PLACEHOLDER)
+
+*Click to watch: Grammar Rules and Sentence Correction*
 </div>
 
 #### 📚 **Vocabulary & Synonyms**
 <div align="center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PLACEHOLDER" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-*Vocabulary Building and Word Power*
+[![Vocabulary Building](https://img.youtube.com/vi/PLACEHOLDER/maxresdefault.jpg)](https://www.youtube.com/watch?v=PLACEHOLDER)
+
+*Click to watch: Vocabulary Building and Word Power*
 </div>
 
 ### 💻 Technical Subjects
 
 #### 🔧 **C Programming Fundamentals**
 <div align="center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PLACEHOLDER" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-*C Programming Interview Questions*
+[![C Programming](https://img.youtube.com/vi/PLACEHOLDER/maxresdefault.jpg)](https://www.youtube.com/watch?v=PLACEHOLDER)
+
+*Click to watch: C Programming Interview Questions*
 </div>
 
 #### 🗄️ **Database Management Systems**
 <div align="center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PLACEHOLDER" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-*DBMS Core Concepts and SQL*
+[![DBMS Concepts](https://img.youtube.com/vi/PLACEHOLDER/maxresdefault.jpg)](https://www.youtube.com/watch?v=PLACEHOLDER)
+
+*Click to watch: DBMS Core Concepts and SQL*
 </div>
 
 #### 🧮 **Data Structures & Algorithms**
 <div align="center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PLACEHOLDER" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-*DSA Interview Preparation*
+[![DSA Fundamentals](https://img.youtube.com/vi/PLACEHOLDER/maxresdefault.jpg)](https://www.youtube.com/watch?v=PLACEHOLDER)
+
+*Click to watch: DSA Interview Preparation*
 </div>
 
 #### ☕ **Java Programming**
 <div align="center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PLACEHOLDER" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-*Java Interview Questions and OOPs*
+[![Java Programming](https://img.youtube.com/vi/PLACEHOLDER/maxresdefault.jpg)](https://www.youtube.com/watch?v=PLACEHOLDER)
+
+*Click to watch: Java Interview Questions and OOPs*
 </div>
 
-> **📺 Note:** Videos are embedded directly in this README for seamless viewing. If a video doesn't load, you can click on it to open in YouTube. Replace "PLACEHOLDER" with actual YouTube video IDs for the remaining videos.
+> **📝 Note:** Replace "PLACEHOLDER" with actual YouTube video IDs. The video thumbnails and links will automatically update once you add the real video IDs.
+
+> **🎬 How to add video links:** Replace `PLACEHOLDER` in the URLs with the actual YouTube video ID (the part after `v=` in YouTube URLs).
 
 ## 🚀 Getting Started
 
