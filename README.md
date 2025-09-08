@@ -108,161 +108,144 @@ Enhance your learning with our curated video tutorials covering essential aptitu
 
 #### 🔢 **Number System & Basic Mathematics**
 <div align="center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UXmoCKxUcs4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-[![Number System Basics](https://img.youtube.com/vi/UXmoCKxUcs4/maxresdefault.jpg)](https://www.youtube.com/watch?v=UXmoCKxUcs4)
-
-*Click to watch: Number System and Basic Mathematical Operations*
+*Number System and Basic Mathematical Operations*
 </div>
 
 #### ➕ **Arithmetic & Percentages**
 <div align="center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_TdyTKpNY8g" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-[![Arithmetic & Percentages](https://img.youtube.com/vi/_TdyTKpNY8g/maxresdefault.jpg)](https://www.youtube.com/watch?v=_TdyTKpNY8g)
-
-*Click to watch: Arithmetic Problems and Percentage Calculations*
+*Arithmetic Problems and Percentage Calculations*
 </div>
 
 #### 💰 **Profit & Loss**
 <div align="center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/frDUnX_rFP4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-[![Profit & Loss](https://img.youtube.com/vi/frDUnX_rFP4/maxresdefault.jpg)](https://www.youtube.com/watch?v=frDUnX_rFP4)
-
-*Click to watch: Profit, Loss, and Discount Problems*
+*Profit, Loss, and Discount Problems*
 </div>
 
 #### 🏦 **Simple & Compound Interest**
 <div align="center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/z2HFclpQHWc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-[![Interest Calculations](https://img.youtube.com/vi/z2HFclpQHWc/maxresdefault.jpg)](https://www.youtube.com/watch?v=z2HFclpQHWc)
-
-*Click to watch: Simple and Compound Interest Problems*
+*Simple and Compound Interest Problems*
 </div>
 
 #### ⏱️ **Time & Work**
 <div align="center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_d4uXI3K50A" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-[![Time & Work](https://img.youtube.com/vi/_d4uXI3K50A/maxresdefault.jpg)](https://www.youtube.com/watch?v=_d4uXI3K50A)
-
-*Click to watch: Time and Work Problems Solving Techniques*
+*Time and Work Problems Solving Techniques*
 </div>
 
 #### 🚗 **Time, Speed & Distance**
 <div align="center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/m-s3vdPoIn4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-[![Time Speed Distance](https://img.youtube.com/vi/m-s3vdPoIn4/maxresdefault.jpg)](https://www.youtube.com/watch?v=m-s3vdPoIn4)
-
-*Click to watch: Time, Speed, and Distance Problem Solving*
+*Time, Speed, and Distance Problem Solving*
 </div>
 
 #### 🔄 **Ratio & Proportion**
 <div align="center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/F63Op34Xqow" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-[![Ratio & Proportion](https://img.youtube.com/vi/F63Op34Xqow/maxresdefault.jpg)](https://www.youtube.com/watch?v=F63Op34Xqow)
-
-*Click to watch: Ratio, Proportion, and Variation Problems*
+*Ratio, Proportion, and Variation Problems*
 </div>
 
 #### 📊 **Data Interpretation**
 <div align="center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-u0AxDxa6C4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-[![Data Interpretation](https://img.youtube.com/vi/-u0AxDxa6C4/maxresdefault.jpg)](https://www.youtube.com/watch?v=-u0AxDxa6C4)
-
-*Click to watch: Charts, Graphs, and Data Analysis*
+*Charts, Graphs, and Data Analysis*
 </div>
 
 ### 🧠 Logical Reasoning
 
 #### 🔍 **Pattern Recognition**
 <div align="center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DgpCzh7cSKg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-[![Pattern Recognition](https://img.youtube.com/vi/DgpCzh7cSKg/maxresdefault.jpg)](https://www.youtube.com/watch?v=DgpCzh7cSKg)
-
-*Click to watch: Number and Letter Pattern Recognition*
+*Number and Letter Pattern Recognition*
 </div>
 
 #### 🧩 **Puzzles & Arrangements**
 <div align="center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sNVxf0MnQhw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-[![Puzzles & Arrangements](https://img.youtube.com/vi/sNVxf0MnQhw/maxresdefault.jpg)](https://www.youtube.com/watch?v=sNVxf0MnQhw)
-
-*Click to watch: Seating Arrangements and Logic Puzzles*
+*Seating Arrangements and Logic Puzzles*
 </div>
 
 #### 🔗 **Syllogisms & Statements**
 <div align="center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/knFLfSr35wU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-[![Syllogisms](https://img.youtube.com/vi/knFLfSr35wU/maxresdefault.jpg)](https://www.youtube.com/watch?v=knFLfSr35wU)
-
-*Click to watch: Syllogisms and Statement-Conclusion Problems*
+*Syllogisms and Statement-Conclusion Problems*
 </div>
 
 #### 📏 **Blood Relations & Coding**
 <div align="center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LRdLhfDupMU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-[![Blood Relations](https://img.youtube.com/vi/LRdLhfDupMU/maxresdefault.jpg)](https://www.youtube.com/watch?v=LRdLhfDupMU)
-
-*Click to watch: Blood Relations and Coding-Decoding*
+*Blood Relations and Coding-Decoding*
 </div>
 
 ### 📝 Verbal Ability
 
 #### 📖 **Reading Comprehension**
 <div align="center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PLACEHOLDER" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-[![Reading Comprehension](https://img.youtube.com/vi/PLACEHOLDER/maxresdefault.jpg)](https://www.youtube.com/watch?v=PLACEHOLDER)
-
-*Click to watch: Reading Comprehension Strategies*
+*Reading Comprehension Strategies*
 </div>
 
 #### ✏️ **Grammar & Sentence Correction**
 <div align="center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PLACEHOLDER" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-[![Grammar Basics](https://img.youtube.com/vi/PLACEHOLDER/maxresdefault.jpg)](https://www.youtube.com/watch?v=PLACEHOLDER)
-
-*Click to watch: Grammar Rules and Sentence Correction*
+*Grammar Rules and Sentence Correction*
 </div>
 
 #### 📚 **Vocabulary & Synonyms**
 <div align="center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PLACEHOLDER" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-[![Vocabulary Building](https://img.youtube.com/vi/PLACEHOLDER/maxresdefault.jpg)](https://www.youtube.com/watch?v=PLACEHOLDER)
-
-*Click to watch: Vocabulary Building and Word Power*
+*Vocabulary Building and Word Power*
 </div>
 
 ### 💻 Technical Subjects
 
 #### 🔧 **C Programming Fundamentals**
 <div align="center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PLACEHOLDER" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-[![C Programming](https://img.youtube.com/vi/PLACEHOLDER/maxresdefault.jpg)](https://www.youtube.com/watch?v=PLACEHOLDER)
-
-*Click to watch: C Programming Interview Questions*
+*C Programming Interview Questions*
 </div>
 
 #### 🗄️ **Database Management Systems**
 <div align="center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PLACEHOLDER" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-[![DBMS Concepts](https://img.youtube.com/vi/PLACEHOLDER/maxresdefault.jpg)](https://www.youtube.com/watch?v=PLACEHOLDER)
-
-*Click to watch: DBMS Core Concepts and SQL*
+*DBMS Core Concepts and SQL*
 </div>
 
 #### 🧮 **Data Structures & Algorithms**
 <div align="center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PLACEHOLDER" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-[![DSA Fundamentals](https://img.youtube.com/vi/PLACEHOLDER/maxresdefault.jpg)](https://www.youtube.com/watch?v=PLACEHOLDER)
-
-*Click to watch: DSA Interview Preparation*
+*DSA Interview Preparation*
 </div>
 
 #### ☕ **Java Programming**
 <div align="center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PLACEHOLDER" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-[![Java Programming](https://img.youtube.com/vi/PLACEHOLDER/maxresdefault.jpg)](https://www.youtube.com/watch?v=PLACEHOLDER)
-
-*Click to watch: Java Interview Questions and OOPs*
+*Java Interview Questions and OOPs*
 </div>
+
+> **📺 Note:** Videos are embedded directly in this README for seamless viewing. If a video doesn't load, you can click on it to open in YouTube. Replace "PLACEHOLDER" with actual YouTube video IDs for the remaining videos.
 
 ## 🚀 Getting Started
 
